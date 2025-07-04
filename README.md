@@ -95,10 +95,5 @@ To extend the algorithm:
 3. Add new performance metrics
 4. Expand test coverage
 
-## License
 
-This project is for educational and research purposes.
 
-## Contact
-
-For questions about implementation or results, please refer to the test outputs and performance analysis included in the codebase.
